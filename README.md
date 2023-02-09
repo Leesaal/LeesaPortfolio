@@ -37,10 +37,11 @@ Please refer to the LICENSE in the repo
 ## Features
 
 This code features:
-1. Semantic HTML
-2. More appropriate CSS ordering
-3. Commented changes
-4. More appropriate use of classes, id's and selectors
+1. Collection of projects
+2. Responsive CSS to hovering with cursor
+3. Responsive change in layout according to screensize
+4. Links to projects/pages
+5. Links to different sections of the webpage
 
 ## Tests
 
@@ -52,4 +53,5 @@ https://leesaal.github.io/module2_portfolio/
 
 ## Image of webpage
 
+![Portfolio webpage](https://user-images.githubusercontent.com/118930290/217950972-c983e819-a595-491e-9130-f4b84b2ef1aa.png)
 
