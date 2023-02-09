@@ -2,12 +2,21 @@
 
 ## Description
 
-This project shows refactored code to make the HTML and CSS code more presentable, understandable and, if required, easier to amend in the future.
+This project was created using only HTML and CSS and shows a collection of my work, with the languages used for each and contact methods.
 
-Semantic HTML has been used wihtin the refactored code to make the code more comprehensible and allows search engines to interpret the content better.
-For example: through my edits, I have introduced meaning to the header and footer.
+The webpage is a portfolio of my work and the page adjusts depending on the screensize.
 
-One particular challenge I faced included trying to understand the output of the superseded code and to ensure the output from the refactored code matched this.  Having learnt reset.css in week 2, in the future I would try to implement a reset.css file to help create a consistent output.
+Smaller screen size: The name is centralised and the nav bar is moved underneath the heading.  It is also aligned vertically
+
+Medium screen size: The name is centralised and the nav bar is move underneath the heading but still in a horizontal layout.
+
+Large screen size: The heading sticks to the left and the nav bar to the right.
+
+The nav bar list links to different sections of the page when clicked and also shows an underline when hovering over each item.
+
+The project work images also change opacity when hovering with the cursor and grow in size.  These images link to my different projects.
+
+There are also links on how to contact me, either linking to my github or linkedin page.
 
 ## Installation
 
@@ -15,7 +24,7 @@ N/A
 
 ## Usage
 
-This code can be used to view the horiseon webpage.  The HTML and CSS code also shows a more efficient code than the orginal.
+This code can be used to view my portfolio, which shows a collection of my projects as well as ways to contact me
 
 ## Credits
 
@@ -36,3 +45,11 @@ This code features:
 ## Tests
 
 There are no tests currently.
+
+## Link to page
+
+https://leesaal.github.io/module2_portfolio/
+
+## Image of webpage
+
+
