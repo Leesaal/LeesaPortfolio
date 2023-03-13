@@ -49,7 +49,7 @@ There are no tests currently.
 
 ## Link to page
 
-https://leesaal.github.io/module2_portfolio/
+https://leesaal.github.io/LeesaPortfolio/
 
 ## Image of webpage
 
